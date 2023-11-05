@@ -1,0 +1,93 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-image: url(./images/cook-preparing-bacon-slices-with-garlic-hot-pepper-broccoli-pan_96270-456.avif);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+
+.container {
+  width: 1027px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  height: 118px;
+  text-transform: capitalize;
+  color: white;
+  /* background-color: #3a4d39; */
+  text-align: center;
+  padding: 5px;
+}
+
+nav {
+  height: 30px;
+  background-color: rgba(0, 0, 0, 0.711);
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 14px;
+}
+
+main {
+  height: 500px;
+  /* background-color: #ce5a67; */
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 30px;
+  padding-left: 230px;
+  padding-right: 230px;
+  padding-bottom: 40px;
+}
+
+footer {
+ padding-top: 20px;
+ padding-bottom: 20px;
+  background-color: rgba(0, 0, 0, 0.821);
+}
+
+header img {
+  height: 40px;
+}
+
+main h1 {
+  font-size: 50px;
+  text-transform: capitalize;
+  color: white;
+}
+
+main p {
+  font-size: 20px;
+  color: white;
+  text-align: justify;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+nav a {
+  text-decoration: none;
+  padding-left: 3px;
+  padding-right: 3px;
+
+  font-size: 12px;
+}
+
+footer p{
+  text-align: center;
+  color: rgb(186, 189, 191);
+  font-size: 16px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+section{
+  padding-bottom: 100px;
+}
+
