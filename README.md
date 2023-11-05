@@ -1,2 +1,2 @@
-# web_project
+# web project
 Web Design Template
